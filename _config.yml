@@ -1,4 +1,4 @@
-layout_spectrum: 0
+layout_spectrum: 0.2404255
 name: 'Smokeshisha '
 collections:
   - index:
@@ -12,12 +12,12 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7765958
+typography_spectrum: 0.4404255
 color:
   brandStrength: 1
-  lightness: 0.3617021
-  saturation: 0.2170213
-  rhythmicContrast: 1
+  lightness: 0.6191489
+  saturation: 0.6085106
+  rhythmicContrast: 0.01914894
   brandColors:
     - '#F4F1E3'
     - '#BEAC0F'

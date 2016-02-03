@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Smokeshisha ]]></title>
+        <description><![CDATA[Smokeshisha ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 19:02:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shisha King - Cung cấp các sản phẩm shisha chính hãng tại Việt Nam.]]></title>
+            <description><![CDATA[<article><h1>Shisha King - Cung cấp các sản phẩm shisha chính hãng tại Việt Nam.</h1><p>Shisha King - Cung cấp các mặt hàng và dịch vụ shisha chuyên nghiệp nhất. Tất cả sản phẩm của Shisha King đều được chọn lựa và nhập chính hãng từ Mỹ. Để biết thêm chi tiết truy cập: shishaking.vn, shishakingus.com, facebook.com/shishakingus</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce9a1a11b552262ef23755f2bc2aca38b5033697.jpg"></article>]]></description>
+            <link>http://www.shishakingus.com/1340/Khalil-Mamoon-Tall-Shamadan-Hookah.html</link>
+            <guid isPermaLink="false">29da31e1-9b20-4ed1-a9da-c61faf1ff8c8</guid>
+            <pubDate>Wed, 03 Feb 2016 19:01:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

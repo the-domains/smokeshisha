@@ -1,4 +1,4 @@
-layout_spectrum: 0.5659574
+layout_spectrum: 0.9808511
 name: 'Smokeshisha '
 collections:
   - index:
@@ -19,8 +19,8 @@ color:
   saturation: 0.2170213
   rhythmicContrast: 1
   brandColors:
-    - '#020105'
-    - '#5B6665'
-    - '#CEA380'
-    - '#FF7FFF'
-    - '#FDFFFF'
+    - '#F4F1E3'
+    - '#BEAC0F'
+    - '#150C27'
+    - '#772830'
+    - '#E1D76E'

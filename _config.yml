@@ -1,26 +1,26 @@
+layout_spectrum: 0.2851064
+name: 'Smokeshisha '
 collections:
   - index:
+      paginate: true
       path: /
       number: 15
-      paginate: true
       navigable: true
     permalink:
       path: '/:title/'
     feed:
-      path: /rss.xml
       format: rss
+      path: /rss.xml
       number: 10
+typography_spectrum: 0.4404255
 color:
-  saturation: 0.4865093
-  brandStrength: 1
+  brandStrength: 0.4085106
   lightness: 0.4907251
+  saturation: 1
+  rhythmicContrast: 0.3212766
   brandColors:
     - '#F4F1E3'
     - '#BEAC0F'
     - '#150C27'
     - '#772830'
     - '#E1D76E'
-  rhythmicContrast: 0.7521079
-typography_spectrum: 0.4404255
-layout_spectrum: 0.9367622
-name: 'Smokeshisha '
